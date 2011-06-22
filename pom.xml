@@ -7,15 +7,15 @@
   </parent>
   <groupId>org.onebusaway</groupId>
   <artifactId>onebusaway-siri-api-v10</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>onebusaway-siri-api-v10</name>
   <description>Support for the SIRI v 1.0 api for real-time transit data.  The class files in this project were automatically generated from the SIRI XSD schemas.</description>
 
   <scm>
-    <connection>scm:svn:http://onebusaway.googlecode.com/svn/siri/onebusaway-siri-api-v10/tags/onebusaway-siri-api-v10-1.0.0</connection>
-    <developerConnection>scm:svn:https://onebusaway.googlecode.com/svn/siri/onebusaway-siri-api-v10/tags/onebusaway-siri-api-v10-1.0.0</developerConnection>
-    <url>http://code.google.com/p/onebusaway/source/browse/#svn/siri/onebusaway-siri-api-v10/tags/onebusaway-siri-api-v10-1.0.0</url>
+    <connection>scm:svn:http://onebusaway.googlecode.com/svn/siri/onebusaway-siri-api-v10/trunk</connection>
+    <developerConnection>scm:svn:https://onebusaway.googlecode.com/svn/siri/onebusaway-siri-api-v10/trunk</developerConnection>
+    <url>http://code.google.com/p/onebusaway/source/browse/#svn/siri/onebusaway-siri-api-v10/trunk</url>
   </scm>
 
   <distributionManagement>
