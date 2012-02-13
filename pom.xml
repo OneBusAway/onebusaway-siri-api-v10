@@ -5,18 +5,23 @@
     <groupId>org.onebusaway</groupId>
     <version>1.0.1</version>
   </parent>
-  <groupId>org.onebusaway</groupId>
   <artifactId>onebusaway-siri-api-v10</artifactId>
   <version>1.0.1-SNAPSHOT</version>
 
   <name>onebusaway-siri-api-v10</name>
   <description>Support for the SIRI v 1.0 api for real-time transit data.  The class files in this project were automatically generated from the SIRI XSD schemas.</description>
+  <url>https://github.com/OneBusAway/onebusaway-siri-api-v10/wiki/</url>
 
   <scm>
-    <connection>scm:svn:http://onebusaway.googlecode.com/svn/siri/onebusaway-siri-api-v10/trunk</connection>
-    <developerConnection>scm:svn:https://onebusaway.googlecode.com/svn/siri/onebusaway-siri-api-v10/trunk</developerConnection>
-    <url>http://code.google.com/p/onebusaway/source/browse/#svn/siri/onebusaway-siri-api-v10/trunk</url>
+    <connection>scm:git:http://github.com/OneBusAway/onebusaway-siri-api-v10.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/OneBusAway/onebusaway-siri-api-v10.git</developerConnection>
+    <url>http://github.com/OneBusAway/onebusaway-siri-api-v10</url>
   </scm>
+
+  <issueManagement>
+    <system>GitHub</system>
+    <url>https://github.com/OneBusAway/onebusaway-siri-api-v10/issues</url>
+  </issueManagement>
 
   <distributionManagement>
     <!-- Even though we specify this in the parent pom, we need to specify it here to have full control over the url -->
