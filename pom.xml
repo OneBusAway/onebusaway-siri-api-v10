@@ -38,4 +38,17 @@
     </repository>
   </repositories>
 
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>com.mycila.maven-license-plugin</groupId>
+        <artifactId>maven-license-plugin</artifactId>
+        <configuration>
+          <excludes combine.children="append">
+            <exclude>src/main/java/uk/org/siri/**</exclude>
+          </excludes>
+        </configuration>
+      </plugin>    
+    </plugins>
+  </build>
 </project>
