@@ -6,7 +6,7 @@
     <version>1.0.2</version>
   </parent>
   <artifactId>onebusaway-siri-api-v10</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
 
   <name>onebusaway-siri-api-v10</name>
   <description>Support for the SIRI v 1.0 api for real-time transit data.  The class files in this project were automatically generated from the SIRI XSD schemas.</description>
